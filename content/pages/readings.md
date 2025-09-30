@@ -20,14 +20,14 @@ No assigned readings.
 ### Readings 
 
 - John Sweller, Jeroen J. G. van Merrienboer, and Fred G. W. C. Paas (1998). "Cognitive Architecture and Instructional Design." *Educational Psychology Review* 10(3): 251–296.
-- Michael Pershan (2016). {{% resource_link "e9c81180-1435-40b6-a69a-38fa53431859" "\"Not a Theory of Everything: On Cognitive Load Theory and the Complexity of Learning.\"" %}} WordPress blog.
+- Michael Pershan (2016). ["Not a Theory of Everything: On Cognitive Load Theory and the Complexity of Learning."](https://cognitiveloadtheory.wordpress.com/) WordPress blog.
 - John Sweller (2016). "Story of a Research Program." In S. Tobias, J. D. Fletcher, and D. C. Berliner (series eds.), *Acquired Wisdom Series. Education Review 23.*
 
 ### Rabbit Hole
 
-- Bror Saxberg (2023). {{% resource_link "2b13d347-54b4-495c-98d2-fecc8ecf88c9" "\"Learning Engineering: What We Know, What We Can Do.\"" %}} MIT Festival of Learning keynote. MIT xTalks (YouTube).
-- National Research Council (2000). {{% resource_link "1ce3b818-8fea-4ff7-b42f-06aca27e41d1" "*How People Learn: Brain, Mind, Experience, and School*" %}}. Washington, DC: The National Academies Press.
-- Deans for Impact (2015). {{% resource_link "6560ba29-48c2-40d3-9b79-a0b46eccb6b0" "*The Science of Learning* (PDF)" %}}.
+- Bror Saxberg (2023). ["Learning Engineering: What We Know, What We Can Do."](https://www.youtube.com/watch?v=VSrsOzzjV8I&list=PLI5g5RWpdCgdfwFpqpY9sQpnxKtatHoX4&index=4) MIT Festival of Learning keynote. MIT xTalks (YouTube).
+- National Research Council (2000). [*How People Learn: Brain, Mind, Experience, and School*](https://nap.nationalacademies.org/catalog/9853/how-people-learn-brain-mind-experience-and-school-expanded-edition). Washington, DC: The National Academies Press.
+- Deans for Impact (2015). [*The Science of Learning* (PDF)](https://www.deansforimpact.org/files/assets/thescienceoflearning.pdf).
 - Jeroen J. G. van Merrienboer and John Sweller (2005). "Cognitive Load Theory and Complex Learning: Recent Developments and Future Directions." *Educational Psychology Review* 17(2): 147–177.
 
 ## Session 3: How People Learn: Situated Learning
@@ -35,13 +35,13 @@ No assigned readings.
 ### Readings
 
 - Jean Lave (1991). "Situated Learning in Communities of Practice." In L. B. Resnick, J. M. Levine, & S. D. Teasley (eds.), *Perspectives on Socially Shared Cognition* (pp. 63–82). American Psychological Association.
-- Mitch Resnick (2014). {{% resource_link "3e068104-e5b6-4f7d-973c-120d33974342" "\"Give P’s a Chance: Projects, Peers, Passion, Play\" (PDF)" %}}. Constructionism 2014.
+- Mitch Resnick (2014). ["Give P’s a Chance: Projects, Peers, Passion, Play" (PDF)](https://web.media.mit.edu/~mres/papers/constructionism-2014.pdf). Constructionism 2014.
 
 ### Rabbit Hole
 
 - Paul A. Kirschner, John Sweller, and Richard E. Clark (2006). "Why Minimal Guidance During Instruction Does Not Work: An Analysis of the Failure of Constructivist, Discovery, Problem-Based, Experiential, and Inquiry-Based Teaching." *Educational Psychologist* 41(2): 75–86.
-- Ken Koedinger (2016). {{% resource_link "64f9dec8-216b-4aaf-8149-9867c7d6fa98" "\"Practical Learning at Scale.\"" %}} Association for Computing Machinery (YouTube).(Start at 9:30, end around 1:00:00)
-- Ken Koedinger, Julie Booth, and David Khlar (2013). {{% resource_link "c7529479-76d8-4e4e-a0c4-e4b23b85b43b" "\"Instructional Complexity and the Science to Explain It\" (PDF)" %}}. *Science* 342: 935–937.
+- Ken Koedinger (2016). ["Practical Learning at Scale."](https://www.youtube.com/watch?v=JOPpgKsxUC0&feature=youtu.be&list=PLn0nrSd4xjjbBVXrdjJNjZLVkZTMHkgPg) Association for Computing Machinery (YouTube).(Start at 9:30, end around 1:00:00)
+- Ken Koedinger, Julie Booth, and David Khlar (2013). ["Instructional Complexity and the Science to Explain It" (PDF)](https://ocw-studio.odl.mit.edu/sites/learning-media-and-technology/type/page/new/Instructional%20Complexity%20and%20the%20Science%20to%20Explain%20It). *Science* 342: 935–937.
 
 ## Session 4: Generative AI (MIT Museum Field Trip)
 
@@ -49,29 +49,29 @@ No assigned readings.
 
 *An excellent introduction to LLMs:* 
 
-- Stephen Wolfram (2023). {{% resource_link "821378e1-daa5-4cf9-bd37-174e85d096f0" "\"What Is ChatGPT Doing … and Why Does It Work?\"" %}} 
+- Stephen Wolfram (2023). ["What Is ChatGPT Doing … and Why Does It Work?"](https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/) 
 
 *On the exhibits at the museum:*
 
-- Keith Holyoak (2022). {{% resource_link "b6058ebf-d8d3-40f4-bd6f-53acac9e48b4" "\"Can AI Write Authentic Poetry?\"" %}} *The MIT Press Reader*. 
+- Keith Holyoak (2022). ["Can AI Write Authentic Poetry?"](https://thereader.mitpress.mit.edu/can-ai-write-authentic-poetry/) *The MIT Press Reader*. 
 - Francesca Panetta, Pakinam Amer, and Fox Harrell (2020). "We Made a Realistic Deepfake, and Here’s Why We Are Worried." *Boston Globe,* October 12, 2020. 
 
 *On teaching writing and ChatGPT:*
 
-- Edward Schiappa and Nick Montfort (2023). {{% resource_link "8c80173e-3c9c-400a-8ac7-17c8fbb5d6f6" "\"Advice Concerning AI-Assisted Writing.\"" %}} Post Position blog, January 10, 2023.
-- Eric Klopfer and Justin Reich (2023). {{% resource_link "8359b9d0-9bf9-430c-8a29-756ef540f142" "\"Calculating the Future of Writing in the Face of AI.\"" %}}
+- Edward Schiappa and Nick Montfort (2023). ["Advice Concerning AI-Assisted Writing."](https://nickm.com/post/2023/01/advice-concerning-the-increase-in-ai-assisted-writing/) Post Position blog, January 10, 2023.
+- Eric Klopfer and Justin Reich (2023). ["Calculating the Future of Writing in the Face of AI."](https://cmsw.mit.edu/advice-and-responses-from-faculty-on-chatgpt-and-a-i-assisted-writing/)
 
 ### Rabbit Hole
 
-- Code.org (2023). {{% resource_link "308f395c-7bf5-45ef-b3d0-6cd6ab793c4c" "\"How AI Works: Chatbots and Large Language Models.\"" %}} 
+- Code.org (2023). ["How AI Works: Chatbots and Large Language Models."](https://code.org/ai/how-ai-works) 
 
 ## Session 5: Supporting Equitable Computer Science Instruction
 
 ### Readings
 
-- Manee Ngozi M Nnamani, Salome Otero, Julie M. Smith, Josh Sheldon, Deborah Boisvert, and Justin Reich (2024). {{% resource_link "60e8f12e-17a7-4ef5-ba38-6a7a1f5d836a" "\"CATCHing CS Equity: Counselors, Administrators, and Teachers Collaborating Holistically.\"" %}} In *Proceedings of the 55th ACM Technical Symposium on Computer Science Education V. 1* (SIGCSE 2024).
-- Mike Tissenbaum, Josh Sheldon, and Hal Abelson (2019). {{% resource_link "d6419d4a-d3c0-47b9-9f22-ecd4eefdc144" "\"From Computational Thinking to Computational Action.\"" %}} *Communications of the ACM* 62(3): 34–36.
-- Carol L. Fletcher and Jayce R. Warner (2021). "{{% resource_link "f1e71d4f-2fb4-47cf-aabc-3b66e2113cff" "CAPE: A Framework for Assessing Equity throughout the Computer Science Education Ecosystem" %}}." *Communications of the ACM* 64(2): 23–25.
+- Manee Ngozi M Nnamani, Salome Otero, Julie M. Smith, Josh Sheldon, Deborah Boisvert, and Justin Reich (2024). ["CATCHing CS Equity: Counselors, Administrators, and Teachers Collaborating Holistically."](https://osf.io/preprints/edarxiv/4wgm9) In *Proceedings of the 55th ACM Technical Symposium on Computer Science Education V. 1* (SIGCSE 2024).
+- Mike Tissenbaum, Josh Sheldon, and Hal Abelson (2019). ["From Computational Thinking to Computational Action."](https://cacm.acm.org/opinion/from-computational-thinking-to-computational-action/) *Communications of the ACM* 62(3): 34–36.
+- Carol L. Fletcher and Jayce R. Warner (2021). "[CAPE: A Framework for Assessing Equity throughout the Computer Science Education Ecosystem](https://cacm.acm.org/opinion/cape/)." *Communications of the ACM* 64(2): 23–25.
 
 ### Rabbit Hole
 
@@ -81,36 +81,36 @@ No provided readings.
 
 ### Readings
 
-- Justin Reich and H. Richard Milner IV (2020). {{% resource_link "df9c4446-2d8e-4682-8daa-84501e049de5" "0.503x: Becoming a More Equitable Educator" %}}. MIT Open Learning Library course. Intro and choose one other unit.
+- Justin Reich and H. Richard Milner IV (2020). [0.503x: Becoming a More Equitable Educator](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+0.503x+T2020/about). MIT Open Learning Library course. Intro and choose one other unit.
 
 ### Rabbit Hole
 
-- Justin Reich and Teaching Systems Lab (2019). {{% resource_link "cea5598c-ac3a-433a-99bb-96b0d02c51bc" "\"TSL MOOCs in Review.\"" %}} Read 3 of 6.
+- Justin Reich and Teaching Systems Lab (2019). ["TSL MOOCs in Review."](https://osf.io/preprints/edarxiv/c3bhw) Read 3 of 6.
 
 ## Session 7: EdTech Before the Internet
 
 ### Readings
 
 - Cuban, Larry (1986). *Teachers and Machines: The Classroom Use of Technology Since 1920*. Teachers College Press. ISBN: 9780807727928.
-- Audrey Watters (2018). {{% resource_link "d2c3718a-c00a-4ead-8785-8efceb655485" "*Teaching Machines, or How the Automation of Education Became \"Personalized Learning.\"*" %}} Hack Education blog post, April 26, 2018.
+- Audrey Watters (2018). [*Teaching Machines, or How the Automation of Education Became "Personalized Learning."*](https://hackeducation.com/2018/04/26/cuny-gc) Hack Education blog post, April 26, 2018.
 
 ### Rabbit Hole
 
-- Tony Bates (2014). Chapter 6.2, "{{% resource_link "f5280b34-fdf5-42b6-8993-96c33c2df10f" "A Short History of Education Technology" %}}." *Teaching in a Digital Age*.
+- Tony Bates (2014). Chapter 6.2, "[A Short History of Education Technology](https://opentextbc.ca/teachinginadigitalage/chapter/section-8-1-a-short-history-of-educational-technology/)." *Teaching in a Digital Age*.
 - Audrey Watters blog posts:
-    - Audrey Watters (2017). {{% resource_link "eca1e4ec-d9ab-4d6f-9ac5-ff7675d88a39" "Driverless Ed-Tech." %}} Hack Education.
-    - —— (2017). {{% resource_link "ae4a444b-4fd6-4f89-843b-201194d66bbd" "Education Technology as the \"New Normal.\"" %}} Hack Education.
-    - —— (2017). {{% resource_link "4b8a1477-d599-4387-8cd8-da918b61c123" "The Histories of Personalized Learning" %}}. Hack Education.
-    - —— (2014). {{% resource_link "778e8a7f-a2d2-47b4-8cf0-4939af4de4a1" "The Myth and the Millennialism of \"Disruptive Innovation.\"" %}} Hack Education.
+    - Audrey Watters (2017). [Driverless Ed-Tech.](https://hackeducation.com/2017/03/30/driverless) Hack Education.
+    - —— (2017). [Education Technology as the "New Normal."](https://hackeducation.com/2017/05/24/new-normal) Hack Education.
+    - —— (2017). [The Histories of Personalized Learning](https://hackeducation.com/2017/06/09/personalization). Hack Education.
+    - —— (2014). [The Myth and the Millennialism of "Disruptive Innovation."](https://hackeducation.com/2013/05/24/disruptive-innovation) Hack Education.
 - Audrey Watters (2021). *Teaching Machines.* MIT Press. 
-- {{% resource_link "6f735322-56f4-4e74-be1d-aea8a8a56ebf" "Failure to Disrupt Book Club: Intro with Audrey Watters and Chris Gilliard." %}} MIT Teaching Systems Lab podcast, October 30, 2020.
+- [Failure to Disrupt Book Club: Intro with Audrey Watters and Chris Gilliard.](https://www.teachlabpodcast.com/failure-to-disrupt-book-club-with-chris-gilliard/) MIT Teaching Systems Lab podcast, October 30, 2020.
 
 ## Session 8: Intro to Iterate and Part I Wrap-Up
 
 *Familiarize yourself with:*
 
-- International Society for Technology in Education (2023). {{% resource_link "3b0e8590-871f-41b2-af72-c839cdccd16c" "Transforming Teacher Education White Paper (PDF)" %}}. 
-- US Department of Education (2024). {{% resource_link "16b7557f-6c11-4d58-8946-30cded336851" "\"A Call to Action for Closing the Digital Access, Design, and Use Divides: 2024 National Education Technology Plan\" (PDF)" %}}. Office of Educational Technology.
+- International Society for Technology in Education (2023). [Transforming Teacher Education White Paper (PDF)](https://1818747.fs1.hubspotusercontent-na1.net/hubfs/1818747/2023_ISTEWhitePaper_TransformTeacherEd_web.pdf?__hstc=12275691.9e16a60a0c29059f31303eb696af9ab5.1695988619252.1695988619252.1695988619252.1&__hssc=12275691.1.1695988619252&__hsfp=1871964875&hsCtaTracking=2c605864-51e6-47a4-9154-820c66b6028e%7C17798335-47f7-4331-9fc8-2e40cf3c2304). 
+- US Department of Education (2024). ["A Call to Action for Closing the Digital Access, Design, and Use Divides: 2024 National Education Technology Plan" (PDF)](https://portal.ct.gov/das/-/media/das/ctedtech/publications/2025/2025-used-oet-archive/netp24.pdf). Office of Educational Technology.
 
 *Read:* 
 
@@ -128,38 +128,38 @@ No provided readings.
 
 ### Rabbit Hole
 
-- René F. Kizilcec and Christopher Brooks (2017). {{% resource_link "f12951bc-eec9-405d-9e5a-58f74952a17c" "\"Diverse Big Data and Randomized Experiments in Massive Open Online Courses\" (PDF)" %}}. Chapter 18 in C. Lang, G. Siemens, A. Wise, and D. Gašević (eds.), *Handbook of Learning Analytics* (pp. 211–222). Society for Learning Analytics Research.
-- Fiona M. Hollands and Devayani Tirthali (2014). {{% resource_link "b43b4856-1d7b-4e03-ac6e-d0d352032065" "\"MOOCs: Expectations and Reality\" (PDF)" %}}. Center for Benefit-Cost Studies of Education, Columbia University.
-- {{% resource_link "02bc9a00-d247-42f8-82bd-fc58dd775ad8" "Failure to Disrupt Book Club with George Siemens and Liz Losh" %}}. MIT Teaching Systems Lab podcast, November 13, 2020.
+- René F. Kizilcec and Christopher Brooks (2017). ["Diverse Big Data and Randomized Experiments in Massive Open Online Courses" (PDF)](https://www.solaresearch.org/wp-content/uploads/2017/05/chapter18.pdf). Chapter 18 in C. Lang, G. Siemens, A. Wise, and D. Gašević (eds.), *Handbook of Learning Analytics* (pp. 211–222). Society for Learning Analytics Research.
+- Fiona M. Hollands and Devayani Tirthali (2014). ["MOOCs: Expectations and Reality" (PDF)](https://files.eric.ed.gov/fulltext/ED547237.pdf). Center for Benefit-Cost Studies of Education, Columbia University.
+- [Failure to Disrupt Book Club with George Siemens and Liz Losh](https://www.teachlabpodcast.com/failure-to-disrupt-book-club-with-george-siemens-and-elizabeth-losh/). MIT Teaching Systems Lab podcast, November 13, 2020.
 
 ## Session 10: Intelligent Tutors
 
 ### Readings
 
 - \[FTD\] chapter 2
-- Go to {{% resource_link "c212b873-3b59-44e0-85cf-ff7bc4712f8b" "Khan Academy" %}}. Create a log in. Play around with the math problems and see if you can detect responsive and adaptive activity in the system. 
+- Go to [Khan Academy](https://www.khanacademy.org/). Create a log in. Play around with the math problems and see if you can detect responsive and adaptive activity in the system. 
 
 ### Rabbit Hole
 
-- {{% resource_link "13715c7d-2b4b-4be4-aac8-9f6f8a4070e4" "Failure to Disrupt Book Club with Neil and Cristina Heffernan." %}} MIT Teaching Systems Lab podcast, November 27, 2020.
+- [Failure to Disrupt Book Club with Neil and Cristina Heffernan.](https://www.teachlabpodcast.com/failure-to-disrupt-book-club-with-cristina-and-neil-heffernan/) MIT Teaching Systems Lab podcast, November 27, 2020.
 
 ## Session 11: Intelligent Tutors (cont.)
 
 ### Readings
 
-- John F. Pane, Beth Ann Griffin, Daniel F. McCaffrey, Rita T. Karam, Lindsay Daugherty, and Andrea Phillips. (2013). {{% resource_link "27b32e61-010e-4eca-bd3a-8d8fd78139ac" "\"Does an Algebra Course with Tutoring Software Improve Student Learning?\"" %}} Research summary, RAND Corporation.
-- Neil T. Heffernan and Cristina Lindquist Heffernan. (2014). {{% resource_link "c39c07d7-bb35-43b2-b198-25f7ab821e10" "\"The ASSISTments Ecosystem: Building a Platform that Brings Scientists and Teachers Together for Minimally Invasive Research on Human Learning and Teaching.\"" %}} *International Journal of Artificial Intelligence in Education* 24: 470–497.
-- Jeremy Roschelle, Mingyu Feng, Robert F. Murphy, and Craig A. Mason (2016). {{% resource_link "dddbda8b-74b6-40b8-b2d7-621fcf37a8c8" "\"Online Mathematics Homework Increases Student Achievement\"" %}} *AERA Open* 2(4).
-- Eric Taylor (2015). {{% resource_link "16d39fef-ce36-4782-b538-e892d07ac139" "\"New Technology and Teacher Productivity\" (PDF)" %}}.
+- John F. Pane, Beth Ann Griffin, Daniel F. McCaffrey, Rita T. Karam, Lindsay Daugherty, and Andrea Phillips. (2013). ["Does an Algebra Course with Tutoring Software Improve Student Learning?"](https://www.rand.org/pubs/research_briefs/RB9746.html) Research summary, RAND Corporation.
+- Neil T. Heffernan and Cristina Lindquist Heffernan. (2014). ["The ASSISTments Ecosystem: Building a Platform that Brings Scientists and Teachers Together for Minimally Invasive Research on Human Learning and Teaching."](https://link.springer.com/article/10.1007/s40593-014-0024-x) *International Journal of Artificial Intelligence in Education* 24: 470–497.
+- Jeremy Roschelle, Mingyu Feng, Robert F. Murphy, and Craig A. Mason (2016). ["Online Mathematics Homework Increases Student Achievement"](https://journals.sagepub.com/doi/full/10.1177/2332858416673968) *AERA Open* 2(4).
+- Eric Taylor (2015). ["New Technology and Teacher Productivity" (PDF)](https://scholar.harvard.edu/files/erictaylor/files/technology-teachers-jan-18.pdf).
 
 ### Rabbit Hole
 
-- James R. Ghesquiere et al. (1975). {{% resource_link "945b7964-43a0-4840-8ee2-d182cbcb817c" "*Introduction to TUTOR (PDF)*" %}}. Computer-Based Education Research Lab, University of Illinois.
-- Alejandro Redy Companioni (2012). {{% resource_link "3d88f51a-ea70-4330-9746-23d8ac149b06" "\"The Mismeasure of Students: Using Item Response Theory Instead of Traditional Grading to Assess Student Proficiency.\"" %}} Knewton blog, Medium, June 7, 2012.
-- Clayton Christensen, Michael B. Horn, and Heather Staker (2013). {{% resource_link "c81fa667-e810-462a-801f-fe956eb60744" "\"Is K-12 Blended Learning Disruptive?\"" %}} Clayton Christensen Institute.
-- R. C. Atkinson and H. A. Wilson (1968). {{% resource_link "ba30d25d-9d58-4d78-a767-00cebbfc8ebf" "\"Computer-Assisted Instruction\" (PDF)." %}} *Science* 162(3849): 73–77.
-- Kenneth R. Koedinger and Albert Corbett (2006). {{% resource_link "e5896fa3-f3c3-4217-abcd-623e8bd7dc47" "\"Cognitive Tutors: Technology Bringing Learning Sciences to the Classroom\" (PDF)" %}}. In R. K. Sawyer (ed.), *The Cambridge Handbook of the Learning Sciences* (pp. 61–77). Cambridge University Press.
-- Matthew A. Kraft (2019). {{% resource_link "ec737aaa-0fa3-4876-8631-61e57283fd2f" "Interpreting Effect Sizes of Educational Intervention (PDF)" %}}. EdWorkingPaper No. 19-10.
+- James R. Ghesquiere et al. (1975). [*Introduction to TUTOR (PDF)*](https://files.eric.ed.gov/fulltext/ED124137.pdf). Computer-Based Education Research Lab, University of Illinois.
+- Alejandro Redy Companioni (2012). ["The Mismeasure of Students: Using Item Response Theory Instead of Traditional Grading to Assess Student Proficiency."](https://medium.com/knerd/the-mismeasure-of-students-using-item-response-theory-instead-of-traditional-grading-to-assess-b55188707ee5) Knewton blog, Medium, June 7, 2012.
+- Clayton Christensen, Michael B. Horn, and Heather Staker (2013). ["Is K-12 Blended Learning Disruptive?"](https://www.christenseninstitute.org/publication/hybrids/) Clayton Christensen Institute.
+- R. C. Atkinson and H. A. Wilson (1968). ["Computer-Assisted Instruction" (PDF).](http://www.rca.ucsd.edu/selected_papers/Computer%20Assisted%20Instruction_Science%20Vol%20162_October%201968.pdf) *Science* 162(3849): 73–77.
+- Kenneth R. Koedinger and Albert Corbett (2006). ["Cognitive Tutors: Technology Bringing Learning Sciences to the Classroom" (PDF)](https://pact.cs.cmu.edu/pubs/koedingercorbett06.pdf). In R. K. Sawyer (ed.), *The Cambridge Handbook of the Learning Sciences* (pp. 61–77). Cambridge University Press.
+- Matthew A. Kraft (2019). [Interpreting Effect Sizes of Educational Intervention (PDF)](https://scholar.harvard.edu/files/mkraft/files/kraft_2019_effect_sizes.pdf). EdWorkingPaper No. 19-10.
 
 ## Session 12: Interest-Driven Learning
 
@@ -170,27 +170,27 @@ No provided readings.
 
 ### Rabbit Hole
 
-- {{% resource_link "ac0d17ef-4865-4c1b-8b65-b5db4d7bec33" "Failure to Disrupt Book Club with Natalie Rusk and Mitch Resnick" %}}. MIT Teaching Systems Lab podcast, December 18, 2020.
-- Mimi Ito et al. (2013). {{% resource_link "29ff5ffd-14b5-49dc-8203-b7d448181994" "*Hanging Out, Messing Around, Geeking Out: Kids Living and Learning with New Media.*" %}} MIT Press. ({{% resource_link "c62a5d36-862b-4324-8ad7-ceb140066cc9" "summary (PDF)" %}})
-- Stephen Downes (2011). {{% resource_link "1291c712-88e1-4cba-9f9c-0a42cbc6895d" "\"'Connectivism' and Connective Knowledge.\"" %}} *Huffington Post,* January 5, 2011.
-- Jim Groom (2014). {{% resource_link "489d080a-a591-4466-b377-08bb08577554" "\"A Domain of One’s Own.\"" %}} Plenary address, 2014 Digital Media and Learning Conference (YouTube). (Start at 34:37, though the other two talks are great too.)
-- Kim Jaxon. {{% resource_link "c21a3ca1-ed66-4ae6-89cf-c8cde4d2a5a7" "Ignite Talk on Epic Creative Writing Courses" %}}. Connected Learning Alliance (YouTube).
-- Any of the publications at the {{% resource_link "ff3c8c4a-b26d-42e8-a7f8-ccb33f6b5901" "Connected Learning Alliance" %}}.
+- [Failure to Disrupt Book Club with Natalie Rusk and Mitch Resnick](https://www.teachlabpodcast.com/failure-to-disrupt-book-club-with-natalie-rusk-and-mitch-resnick/). MIT Teaching Systems Lab podcast, December 18, 2020.
+- Mimi Ito et al. (2013). [*Hanging Out, Messing Around, Geeking Out: Kids Living and Learning with New Media.*](https://mitpress.mit.edu/9780262518543/hanging-out-messing-around-and-geeking-out/) MIT Press. ([summary (PDF)](https://www.macfound.org/media/article_pdfs/dml_ethnog_whitepaper_1.pdf))
+- Stephen Downes (2011). ["'Connectivism' and Connective Knowledge."](https://www.huffpost.com/entry/connectivism-and-connecti_b_804653) *Huffington Post,* January 5, 2011.
+- Jim Groom (2014). ["A Domain of One’s Own."](https://www.youtube.com/watch?t=34m37s&v=6m90BzVVPG4&feature=youtu.be) Plenary address, 2014 Digital Media and Learning Conference (YouTube). (Start at 34:37, though the other two talks are great too.)
+- Kim Jaxon. [Ignite Talk on Epic Creative Writing Courses](https://www.youtube.com/watch?v=p1tl7E6LX8M). Connected Learning Alliance (YouTube).
+- Any of the publications at the [Connected Learning Alliance](https://clalliance.org/publications/).
 
 ## Session 13: Interest-Driven Learning (cont.)
 
 ### Readings
 
-- Mizuko Ito et al. (2013). {{% resource_link "4ae272b8-b018-43aa-9cae-c3a4370062c7" "\"Connected Learning: An Agenda for Research and Design\" (PDF)" %}}. Digital Media and Learning Research Hub.
-- Mitch Resnick et al. (2009). {{% resource_link "48d7ecb7-627f-4acd-ad09-34833fb743b3" "\"Scratch: Programming for All.\"" %}} *Communications of the ACM* 52(11): 60–67. 
+- Mizuko Ito et al. (2013). ["Connected Learning: An Agenda for Research and Design" (PDF)](https://clalliance.org/wp-content/uploads/2018/05/Connected_Learning_report.pdf). Digital Media and Learning Research Hub.
+- Mitch Resnick et al. (2009). ["Scratch: Programming for All."](https://dl.acm.org/doi/10.1145/1592761.1592779) *Communications of the ACM* 52(11): 60–67. 
 
 ### Rabbit Hole
 
 *Explore Connectivist sites:*
 
-- Do two {{% resource_link "a25b7981-afda-4116-baec-2dccd64ecc87" "Daily Creates" %}} from DS106 
-- {{% resource_link "c908fc93-dece-49b9-87d3-12a4208539be" "DS106" %}}
-- {{% resource_link "82dde224-0de9-44e4-b623-5c9982261f1f" "Anth101.com" %}} 
+- Do two [Daily Creates](https://daily.ds106.us/random) from DS106 
+- [DS106](http://ds106.us/)
+- [Anth101.com](https://anth101.com/) 
 
 ## Session 14: Learning Games
 
@@ -200,49 +200,49 @@ No provided readings.
 
 ### Rabbit Hole
 
-- {{% resource_link "989864c6-1bad-43b9-89d9-378a2a550a9d" "Failure to Disrupt Book Club with Scot Osterweil and Constance Steinkuehler" %}}.  MIT Teaching Systems Lab podcast, January 8, 2021.
-- Eric Klopfer et al. (2018). {{% resource_link "79973ff0-d12b-4170-8b50-fafa0fb0bd5d" "*Resonant Games*" %}}. MIT Press.
-- {{% resource_link "a4df7b4f-ffd5-4728-a1e3-ff8e142ed1ea" "Math Blaster Plus!" %}}
-- {{% resource_link "85574795-cca2-46b4-90eb-f6f342076839" "Logical Journey of the Zoombinis" %}}
-- {{% resource_link "31b8c354-53dd-4350-9cbf-5f35f401d24b" "Minecraft Education" %}}
-- {{% resource_link "c68d9bb4-7288-4d8a-9c87-07938d426c9b" "Duolingo" %}}
+- [Failure to Disrupt Book Club with Scot Osterweil and Constance Steinkuehler](https://www.teachlabpodcast.com/failure-to-disrupt-book-club-with-scot-osterweil-and-constance-steinkuehler/).  MIT Teaching Systems Lab podcast, January 8, 2021.
+- Eric Klopfer et al. (2018). [*Resonant Games*](https://direct.mit.edu/books/oa-monograph/4472/Resonant-GamesDesign-Principles-for-Learning-Games). MIT Press.
+- [Math Blaster Plus!](https://playclassic.games/games/educational-dos-games-online/play-math-blaster-plus-online/play/)
+- [Logical Journey of the Zoombinis](https://playclassic.games/games/educational-windows-games-online/logical-journey-of-the-zoombinis/play/)
+- [Minecraft Education](https://education.minecraft.net/en-us)
+- [Duolingo](https://www.duolingo.com/)
 
 ## Session 15: Actor-Network Theory: How Does Technology Use Us?
 
 ### Readings
 
-- Bruno Latour (1992). {{% resource_link "15c0cedb-57ec-41a3-b397-c5c7e475de1d" "\"Where Are the Missing Masses? The Sociology of a Few Mundane Artifacts\" (PDF)" %}}. In E. Wiebe and J. Law (eds.), *Shaping Technology. Building Society: Studies in Sociotechnical Change.* Cambridge, MA: MIT Press, pp. 225–258. 
+- Bruno Latour (1992). ["Where Are the Missing Masses? The Sociology of a Few Mundane Artifacts" (PDF)](http://www.bruno-latour.fr/sites/default/files/50-MISSING-MASSES-GB.pdf). In E. Wiebe and J. Law (eds.), *Shaping Technology. Building Society: Studies in Sociotechnical Change.* Cambridge, MA: MIT Press, pp. 225–258. 
 
 *Quick skim:*
 
-- Mark Chen (2011). {{% resource_link "e2543187-8fbb-4ccb-a10c-a0c14c1d28c6" "\"How a New Actor Was Temporarily Enrolled into the Network of Game Playing\" (PDF)" %}}. *Computer Supported Collaborative Learning 2011: Conference Proceedings* Volume II. pp 661–665.
-- Justin Reich (2012). {{% resource_link "1fb13448-06ab-4f7a-b8bf-27308ef023cd" "\"Using Data to Kill Demons: Learning from World of Warcraft.\"" %}} *Education Week,* August 24, 2012.
+- Mark Chen (2011). ["How a New Actor Was Temporarily Enrolled into the Network of Game Playing" (PDF)](https://repository.isls.org/bitstream/1/2519/1/661-665.pdf). *Computer Supported Collaborative Learning 2011: Conference Proceedings* Volume II. pp 661–665.
+- Justin Reich (2012). ["Using Data to Kill Demons: Learning from World of Warcraft."](https://www.edweek.org/education/opinion-using-data-to-kill-demons-learning-from-world-of-warcraft/2012/08) *Education Week,* August 24, 2012.
 
 ### Rabbit Hole
 
-- Darryl Cressman (2009). {{% resource_link "8b0e0cd9-cffe-4c49-a069-719ccb2fbdaf" "\"A Brief Overview of Actor-Network Theory.\"" %}}
-- Derek Thomson (2014). {{% resource_link "bb38fd3e-e445-409e-8ccb-1acf077e2a3d" "\"The Simple Technology That Ruined Baseball.\"" %}} *The Atlantic,* September 4, 2014.
-- Sonia Livingstone and Julian Sefton-Green (2016). {{% resource_link "fa2f9005-e3fc-474a-83ea-94f5812c13d8" "*The Class: Living and Learning in the Digital Age*" %}}. NYU Press.
+- Darryl Cressman (2009). ["A Brief Overview of Actor-Network Theory."](https://summit.sfu.ca/item/13593)
+- Derek Thomson (2014). ["The Simple Technology That Ruined Baseball."](https://www.theatlantic.com/entertainment/archive/2014/09/baseball-offensive-drought-and-camera-technology/379443/) *The Atlantic,* September 4, 2014.
+- Sonia Livingstone and Julian Sefton-Green (2016). [*The Class: Living and Learning in the Digital Age*](https://nyupress.org/9781479824243/the-class/). NYU Press.
 
 ## Session 16: Start-Up and the Curse of the Familiar
 
 ### Readings
 
 - \[FTD\] chapter 5
-- Sign-up for {{% resource_link "45b1721e-3c3e-4cfd-bb3e-011379c4067f" "Playlab" %}} accounts and play around. If you want to tinker, here are {{% resource_link "1c049e62-a2d5-4e79-a21d-fefedfe712b0" "videos to help get started" %}} and more resources are on our learning hub (including stuff on prompt engineering).
-- Eric Klopfer, Justin Reich, Hal Abelson, and Cynthia Breazeal (2024). {{% resource_link "8d17342e-0959-4741-ac92-005be7b8ecb9" "\"Generative AI and K-12 Education: An MIT Perspective.\"" %}}
-- Seymour Papert (1997). {{% resource_link "df30fa6b-72ff-42a0-a74d-f1f88584b502" "\"Why School Reform Is Impossible (with Commentary on O'Shea's and Koschmann's Reviews of 'The Children's Machine').\"" %}} *The Journal of the Learning Sciences* 6(4): 417–427.
+- Sign-up for [Playlab](https://www.playlab.ai/) accounts and play around. If you want to tinker, here are [videos to help get started](https://playlabai.notion.site/Getting-Started-on-Playlab-7b9b79c5ea964c3b88b9229c7d012677) and more resources are on our learning hub (including stuff on prompt engineering).
+- Eric Klopfer, Justin Reich, Hal Abelson, and Cynthia Breazeal (2024). ["Generative AI and K-12 Education: An MIT Perspective."](https://mit-genai.pubpub.org/pub/4k9msp17/release/1?readingCollection=0e231e9c)
+- Seymour Papert (1997). ["Why School Reform Is Impossible (with Commentary on O'Shea's and Koschmann's Reviews of 'The Children's Machine')."](https://www.jstor.org/stable/1466781?seq=1) *The Journal of the Learning Sciences* 6(4): 417–427.
 
 ### Rabbit Hole
 
-- {{% resource_link "260315e4-7399-4374-9c5a-beb31cdf5613" "Failure to Disrupt Book Club with Dan Meyer" %}}. MIT Teaching Systems Lab podcast, January 22, 2021.
-- Justin Reich (2013). {{% resource_link "9bd7014f-4800-4518-b2ac-33403b9de724" "\"Personalized Learning, Backpacks Full of Cash, Rockstar Teachers, and MOOC Madness.\"" %}} Berkman Klein Center (YouTube).
-- Jill Lepore (2014). {{% resource_link "db936ad1-ff90-4111-aa44-8677681a7134" "\"The Disruption Machine.\"" %}} *New Yorker,* June 16, 2014.
-- Office of Education Technology (2015). {{% resource_link "28460c0f-fba0-4d24-ac47-dfedf75ab070" "*EdTech Developers Guide*" %}}. U.S. Department of Education.
-- Justin Reich (2013). {{% resource_link "0c7b6205-a0a9-4e38-8c1b-4f005b4c2fbb" "\"EdTech Start-Ups and the Curse of the Familiar.\"" %}} *EdTech Researcher.*
-- Justin Reich (2015). {{% resource_link "31d89a72-8786-4659-a967-38104d87c19f" "\"A New Preface to the EdTech Developers Guide.\"" %}} *EdTech Researcher.*
-- Benjamin Mako Hill (2014). {{% resource_link "e180320d-fa55-4839-921b-12217eabb9c3" "\"Almost Wikipedia: Eight Early Encyclopedia Projects and the Mechanisms of Collective Action\" (PDF)." %}} Dissertation chapter.
-- {{% resource_link "aa668105-acab-4a17-84c4-0d4a48ff97a8" "Video & Multiple Choice: What Took Us So Long?" %}} Desmos blog, October 27, 2016.
+- [Failure to Disrupt Book Club with Dan Meyer](https://www.teachlabpodcast.com/failure-to-disrupt-book-club-with-dan-meyer/). MIT Teaching Systems Lab podcast, January 22, 2021.
+- Justin Reich (2013). ["Personalized Learning, Backpacks Full of Cash, Rockstar Teachers, and MOOC Madness."](https://cyber.harvard.edu/events/luncheon/2013/05/reich) Berkman Klein Center (YouTube).
+- Jill Lepore (2014). ["The Disruption Machine."](https://www.newyorker.com/magazine/2014/06/23/the-disruption-machine) *New Yorker,* June 16, 2014.
+- Office of Education Technology (2015). [*EdTech Developers Guide*](https://tech.ed.gov/developers-guide/). U.S. Department of Education.
+- Justin Reich (2013). ["EdTech Start-Ups and the Curse of the Familiar."](https://edtechresearcher.com/2013/11/edtech_start-ups_and_the_curse_of_the_familar/) *EdTech Researcher.*
+- Justin Reich (2015). ["A New Preface to the EdTech Developers Guide."](https://edtechresearcher.com/2015/04/preface-for-the-edtech-developers-guide/) *EdTech Researcher.*
+- Benjamin Mako Hill (2014). ["Almost Wikipedia: Eight Early Encyclopedia Projects and the Mechanisms of Collective Action" (PDF).](https://mako.cc/academic/hill-almost_wikipedia-DRAFT.pdf) Dissertation chapter.
+- [Video & Multiple Choice: What Took Us So Long?](https://blog.desmos.com/articles/video-multiple-choice-what-took-us-so-long/) Desmos blog, October 27, 2016.
 
 ## Session 17: Equity
 
@@ -253,18 +253,18 @@ No provided readings.
 
 ### Rabbit Hole
 
-- {{% resource_link "254048f7-a860-4659-abf3-14b31a42aa97" "Failure to Disrupt Book Club with Antero Garcia" %}}. MIT Teaching Systems Lab podcast, February 1, 2021.
-- Justin Reich, Mizuko Ito, et al. (2017). {{% resource_link "444c431e-5289-469a-a691-26e8f6be134a" "\"From Good Intentions to Real Outcomes: Equity by Design in Learning Technologies\" (PDF)" %}}. Digital Media and Learning Research Hub.
-- Annie Murphy Paul (2014). {{% resource_link "ceadf363-a259-4a69-b028-0ed94bd7acbb" "\"Educational Technology Isn’t Leveling the Playing Field.\"" %}} *Hechinger Report,* June 25, 2014.
-- Laura Pappano (2013). {{% resource_link "2f4dae46-0f05-4184-82b2-0da7b75ddf83" "\"The Boy Genius of Ulan Bator.\"" %}} *New York Times,* September 15, 2013.
-- Di Xu and Shanna Smith-Jaggers (2013). {{% resource_link "0cbf2b28-5a58-43ab-beba-49ee33a3502c" "\"Adaptability to Online Learning.\"" %}} Community College Research Center Working Paper No. 54. 
-- Gayle Christensen et al. (2013). {{% resource_link "07a96993-df7e-44ce-95e0-223981b6dd8d" "\"The MOOC Phenomenon: Who Takes Massively Open Online Courses and Why?\"" %}} 
-- Tressie McMillan Cottom (2014). {{% resource_link "a17edf16-a95a-43d4-8be7-160b8d4f3bde" "\"Democratizing Ideologies and Inequality Regimes.\"" %}} Berkman talk. 
+- [Failure to Disrupt Book Club with Antero Garcia](https://www.teachlabpodcast.com/failure-to-disrupt-book-club-with-antero-garcia/). MIT Teaching Systems Lab podcast, February 1, 2021.
+- Justin Reich, Mizuko Ito, et al. (2017). ["From Good Intentions to Real Outcomes: Equity by Design in Learning Technologies" (PDF)](https://clalliance.org/wp-content/uploads/2017/11/GIROreport_1031.pdf). Digital Media and Learning Research Hub.
+- Annie Murphy Paul (2014). ["Educational Technology Isn’t Leveling the Playing Field."](https://hechingerreport.org/educational-technology-isnt-leveling-playing-field/#:~:text=While%20technology%20has%20often%20been,school%2Dready%20and%20the%20less%2D) *Hechinger Report,* June 25, 2014.
+- Laura Pappano (2013). ["The Boy Genius of Ulan Bator."](https://www.nytimes.com/2013/09/15/magazine/the-boy-genius-of-ulan-bator.html) *New York Times,* September 15, 2013.
+- Di Xu and Shanna Smith-Jaggers (2013). ["Adaptability to Online Learning."](https://academiccommons.columbia.edu/doi/10.7916/D82N59NB?fbclid=IwAR3YLmSDJ8RORJaFbmNQWiM6SHK81ZNfmL7TCeMYRR_mya_8eEHcPT6E4WI) Community College Research Center Working Paper No. 54. 
+- Gayle Christensen et al. (2013). ["The MOOC Phenomenon: Who Takes Massively Open Online Courses and Why?"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2350964) 
+- Tressie McMillan Cottom (2014). ["Democratizing Ideologies and Inequality Regimes."](https://tressiemc.com/uncategorized/round-up-of-berkman-center-notes-and-reflections/) Berkman talk. 
 - Shanna Smith-Jaggers (2014). "Democratization of Education For Whom? Online Learning and Educational Equity." *Diversity and Democracy* 17(1).
-- Matthew H. Rafalow (2018). {{% resource_link "57cb829c-9753-4c17-8e27-077467b056d1" "\"Disciplining Play: Digital Youth Culture as Capital at School.\"" %}} *American Journal of Sociology* 123(5).
-- Victoria Rideout and Vikki S. Katz (2016). {{% resource_link "f7ecd01f-61ba-4e0a-95d0-8026d6344b75" "\"Opportunity for All? Technology and Learning for Lower-Income Families\" (PDF)." %}} Report of the Families and Media Project. The Joan Ganz Cooney Center at Sesame Workshop.
-- John D. Hansen and Justin Reich (2015). {{% resource_link "9fe396d0-b57c-46de-b6b7-a136b2ff3dc2" "\"Democratizing Education? Examining Access and Usage Patterns in Massive Open Online Courses.\"" %}} *Science* 350(6265).
-- Roque et al. {{% resource_link "80915e2c-9dab-4765-b5ad-a559611db172" "*Family Creative Learning Guide*" %}}*.* Creative Communities research group, University of Colorado.
+- Matthew H. Rafalow (2018). ["Disciplining Play: Digital Youth Culture as Capital at School."](https://www.journals.uchicago.edu/doi/abs/10.1086/695766) *American Journal of Sociology* 123(5).
+- Victoria Rideout and Vikki S. Katz (2016). ["Opportunity for All? Technology and Learning for Lower-Income Families" (PDF).](https://joanganzcooneycenter.org/wp-content/themes/jgcc/downloader.php?file=/wp-content/uploads/2016/01/jgcc_opportunityforall.pdf) Report of the Families and Media Project. The Joan Ganz Cooney Center at Sesame Workshop.
+- John D. Hansen and Justin Reich (2015). ["Democratizing Education? Examining Access and Usage Patterns in Massive Open Online Courses."](https://www.science.org/doi/10.1126/science.aab3782) *Science* 350(6265).
+- Roque et al. [*Family Creative Learning Guide*](https://www.familycreativelearning.org/guide/)*.* Creative Communities research group, University of Colorado.
 
 ## Session 18: Trap of Routine Assessment
 
@@ -274,23 +274,23 @@ No provided readings.
 
 ### Rabbit Hole
 
-- {{% resource_link "66682107-ffc0-45b2-9ffb-623198027237" "Failure to Disrupt Book Club with Courtney Bell" %}}. MIT Teaching Systems Lab podcast, February 12, 2021.
-- Robert J. Mislevy, Russell G. Almond, and Janice F. Lukas (2003). {{% resource_link "3681176b-a9af-4a25-a58a-d94875e03c43" "\"A Brief Introduction to Evidence‐Centered Design.\"" %}} *ETS Research Report Series*, 2003(1), pp. i–29.
+- [Failure to Disrupt Book Club with Courtney Bell](https://www.teachlabpodcast.com/failure-to-disrupt-book-club-with-courtney-bell/). MIT Teaching Systems Lab podcast, February 12, 2021.
+- Robert J. Mislevy, Russell G. Almond, and Janice F. Lukas (2003). ["A Brief Introduction to Evidence‐Centered Design."](https://onlinelibrary.wiley.com/doi/10.1002/j.2333-8504.2003.tb01908.x) *ETS Research Report Series*, 2003(1), pp. i–29.
 
 ## Session 19: COVID and Schools
 
 ### Readings
 
-- Pick two things from the Teaching Systems Lab's {{% resource_link "1da9313a-26aa-44e9-9b2e-77d47e1717e7" "COVID Research" %}}, either the papers below or any of the webinars, etc.
-    - {{% resource_link "57f72e03-575c-4605-91d2-09c2962c904f" "Remote Learning Guidance from State Education Agency during COVID-19" %}}.
-    - {{% resource_link "010546ae-eb48-4390-9e96-7447322d5bf9" "Imagining September: Principles and Design Elements for Ambitious Schools in COVID-19" %}}.
-    - {{% resource_link "b8f71cfa-6a8f-49c2-b9ac-25ed02b0e3b7" "What’s Lost, What’s Left, What’s Next: Lessons Learns from Teachers and COVID 2020" %}}.
-    - {{% resource_link "f3ee701b-8ebb-4c20-b33a-1a9f1a243295" "Healing, Community, and Humanity. How Students and Teachers Want to Reinvent Schools Post-COVID" %}}.
-    - {{% resource_link "8198f1c6-713a-4f13-9eda-e61661727050" "The Teachers Have Something to Say: Teachers and COVID in 2021" %}}.
+- Pick two things from the Teaching Systems Lab's [COVID Research](https://tsl.mit.edu/covid-research/), either the papers below or any of the webinars, etc.
+    - [Remote Learning Guidance from State Education Agency during COVID-19](https://osf.io/preprints/edarxiv/437e2).
+    - [Imagining September: Principles and Design Elements for Ambitious Schools in COVID-19](https://osf.io/preprints/edarxiv/gqa2w).
+    - [What’s Lost, What’s Left, What’s Next: Lessons Learns from Teachers and COVID 2020](https://osf.io/preprints/edarxiv/8exp9).
+    - [Healing, Community, and Humanity. How Students and Teachers Want to Reinvent Schools Post-COVID](https://edarxiv.org/nd52b).
+    - [The Teachers Have Something to Say: Teachers and COVID in 2021](https://edarxiv.org/h8gac).
 
 ### Rabbit Hole
 
-- Alec MacGillis (2024). {{% resource_link "c3cf6639-8bfd-4312-a34d-9257499009eb" "\"Skipping School: America’s Hidden Education Crisis.\"" %}} ProPublica, January 8, 2024.
+- Alec MacGillis (2024). ["Skipping School: America’s Hidden Education Crisis."](https://www.propublica.org/article/school-absenteeism-truancy-education-students) ProPublica, January 8, 2024.
 
 ## Session 20: The Toxic Power of Data and Experiment
 
@@ -300,8 +300,8 @@ No provided readings.
 
 ### Rabbit Hole
 
-- {{% resource_link "c2933a52-a317-4a18-9ef3-77f832c415f5" "Failure to Disrupt Book Club with Candace Thille" %}}. MIT Teaching Systems Lab podcast, February 26, 2021.
-- Monica Bulger, Patrick McCormick, and Mikaela Pitcan (2017). {{% resource_link "2317300e-b3e3-4ffa-b154-7e311c180b18" "\"The Legacy of InBloom\" (PDF)." %}} Data & Society Working Paper.
+- [Failure to Disrupt Book Club with Candace Thille](https://www.teachlabpodcast.com/failure-to-disrupt-book-club-with-candace-thille/). MIT Teaching Systems Lab podcast, February 26, 2021.
+- Monica Bulger, Patrick McCormick, and Mikaela Pitcan (2017). ["The Legacy of InBloom" (PDF).](https://datasociety.net/pubs/ecl/InBloom_feb_2017.pdf) Data & Society Working Paper.
 
 ## Session 21: Managing Change in Schools
 
@@ -312,7 +312,7 @@ No provided readings.
 
 ### Rabbit Hole
 
-- Fiona M. Hollands (2017). {{% resource_link "82bfd432-8e7b-4840-9d89-54ca0c5674af" "\"EdTech Decision Making in Higher Education Summary.\"" %}}
+- Fiona M. Hollands (2017). ["EdTech Decision Making in Higher Education Summary."](https://www.academia.edu/33355802/EdTech_Decision_making_in_Higher_Education_Summary_pdf_2017_)
 
 ## Sessions 22–24: Final Project Presentations and Class Wrap-Up
 

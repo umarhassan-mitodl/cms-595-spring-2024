@@ -1,0 +1,29 @@
+leftnav:
+- identifier: ffbd8fcb-96f0-4802-9e22-d3f5bbe32b3b
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: 7ce03638-6282-40d1-b803-5d0f821dcd50
+  name: Readings
+  pageRef: /pages/readings
+  weight: 20
+- identifier: e2da6fe5-b052-4e23-aa64-073eaba90a26
+  name: Seminar Videos
+  pageRef: /video_galleries/session-videos
+  weight: 30
+- identifier: e6e1a73b-dac6-4fcc-93bc-d05f7fcd9218
+  name: Lecture Slides
+  pageRef: /lists/lecture-slides
+  weight: 40
+- identifier: 1dece5e8-8783-4d92-bd57-b514e1c24699
+  name: Assignments
+  pageRef: /pages/assignments
+  weight: 50
+- identifier: f4d58f41-07f6-4c7b-b339-f7f8b8ce5fdf
+  name: Learning Journals
+  pageRef: /pages/learning-journals
+  weight: 60
+- identifier: 92a3cb6f-9128-43bd-a3ac-72002d618f31
+  name: Final Project
+  pageRef: /pages/final-project
+  weight: 70
